@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chris</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-06-05T13:13:11Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s76">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Center"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Center"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s96" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s103" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s104">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s107" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s109" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s110" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s112">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s114">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s115">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s116">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="144" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s67">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Laser Gatling</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/scatterlaser_cannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Aunque a primera vista es similar a los convencionales autocañones que hemos estado utilizando en nuestros interceptores, el láser Gatling tiene similitudes con su predecesor al examinarlo más de cerca. Hemos reducido la cantidad de tambores a tres siendo uno de los prototipos de láser de batalla más prometedores de nuestros laboratorios. Debido a nuestras condiciones atmosféricas y a la atenuación que causan en los rayos del láser Gatling, su alcance efectivo es un poco más del 15% mejor que el del cañón automático. Sin embargo, es más probable que los UFOs sean más propensos a ser infligidos en comparación con los proyectiles balísticos convencionales. Estimamos que dentro de su rango operacional, el láser Gatling es dos veces más efectivo en infligir daño de batalla a naves enemigas.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Misil Alenium</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alenium_missile</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">La actualización de nuestros AIM-9 Sidewinder por ojivas Alenium ha sido relativamente simple. Aunque empaquetamos en la misma cantidad de Alenium como del convencional explosivo, nos hemos basado en un enfoque equilibrado. El nuevo misil debería proporcionar un aumento del 50% en el daño explosivo infligido a naves alien. El peso que se ahorra al reducir la ojiva aumenta la propensión del misil. Finalmente, el análisis aéreo de naves alienígenas hasta la fecha, nos ha dado algunas ideas para adaptar nuestros sistemas de puntería aire-aire a la hora de rastrear exclusivamente naves alienígenas. El misil Alenium es uno de los primeros en tener un tiempo de mira mucho más corto.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Torpedo Alenium</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alenium_torpedo</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Nos sorprendió un poco la efectividad del improvisado Torpedo Avalancha contra las largas y menos maniobrables naves aliens. Hemos decidido actualizar el diseño junto con el misil Alenium. Una gran ojiva de Alenium debería dar al Torpedo Alenium un 30% de aumento en el daño sobre el Avalancha. Este diseño mejorado también presenta un aumento en el alcance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Laser Plasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasmablaster_cannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Finalmente hemos podido integrar la tecnología de plasma alien en nuestras propias armas de aeronaves. Con las restricciones de tamaño y peso relativamente ligeras de los puntos de acceso de nuestras aeronaves, hemos sido capaces de montar una cámara de plasma capaz de crear una secuencia asombrosa de partículas sobrecalentadas. Esto es un 50% más efectivo en daños para nuestras armas láser contra naves alienígenas. Una ventaja adicional es la efectividad de los generadores de gravitones que hemos instalado en el extremo terminal del Laser de Plasma. Descubrimos que enfocan el plasma en pernos discretos que pueden viajar de forma cohesiva en una distancia sorprendentemente larga, lo que aumenta un poco el alcance de nuestra nave de combate.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Misil de Plasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasma_missile</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Hemos descubierto que la armadura de la nave de combate alien más reciente vista, es cada vez más resistente a las cabezas nucleares de nuestros misiles Alenium. Nuestra solución de nuevo diseño toma mucho del Torpedo de Plasma. El misil de plasma resultante debería proporcionar al menos un 66% de aumento en el daño de combate en comparación con la variante anterior. También hemos terminado de probar una nueva combinación de propelente de cohete que hemos cambiado para el misil de plasma. Aunque no es dramáticamente mejor que nuestra mezcla más antigua, debería dar a nuestros misiles un rango de separación ligeramente mayor.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Torpedo Plasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasma_torpedo</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">La armadura del casco de las naves aliens que hemos visto en las últimas semanas se estaba convirtiendo en un problema grave en nuestros esfuerzos de interceptación. El cono de explosión de nuestros Torpedos de Alenium estaba siendo absorbido y disipado cada vez más por las capas de blindaje alien presentes en los UFOs más pesados. Uno de los prototipos de nuestros laboratorios diseñado para abordar este problema utilizó un generador de plasma como un tipo de penetrador en una ojiva. El efecto que tuvo en la armadura de la nave alien rápidamente me convenció para moverlo a la producción inmediata. La corriente de plasma dirigida desde el penetrador permitira que haya un frente de explosión significativamente más grande consiguiendo que la explosión de Alenium llegue al interior de la nave alien. Una nueva mezcla de propelente avanzado también nos ha permitido ampliar el alcance del Torpedo de Plasma.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">MAGTORMENTA</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/MAGSTORM_cannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Parece que hemos completado un círculo. Nuestra última arma artesanal causa daños cinéticos de forma muy similar a como hacíamos con el cañón automático que utilizábamos no hace mucho tiempo. Sin embargo, la escala y la velocidad de destrucción de la que MAGTORMENTA es capaz está verdaderamente fuera de este mundo. Donde nos enfrentemos a una amenaza extraterrestre extrema; un puñado de estos podría cambiar el rumbo de cualquier campaña militar. Desafortunadamente, a pesar de ofrecer incrementos significativos tanto en daño como en rango sobre el Laser de Plasma, MAGTORMENTA solo nos permite nivelar el campo de juego frente a las interminables oleadas de Acorazados aliens.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">HyperMisile</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/hyper_missile</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Nuestro diseño de misiles más avanzado ha intercambiado la explosiva carga útil de Alenium a favor de un dispositivo de fusión a pequeña escala. Escalado para encajar en los puntos de acceso de misiles de nuestros interceptores, el rendimiento de daño del Hyper Misil es solo un 50% más que el del misil de plasma, pero también hemos logrado refinar el diseño de nuestro motor de cohete. El resultado es aproximadamente un aumento del 12% en el rango operativo. Estos deberían hacer un trabajo corto de cualquiera de las naves aliens más avanzadas.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Torpedo Fusion</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/fusion_torpedo</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Armas de Aeronaves Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Desde que comenzamos a ver naves aliens hostiles en nuestro espacio aéreo, hemos estado debatiendo si es factible usar nuestro arsenal nuclear contra los extraterrestres. El consenso abrumador ha sido en contra de tal enfoque, pero no sin cierta presión feroz de un par de incondicionales de la Guerra Fría. Me temo que, independientemente de si nuestras armas termonucleares podrían dañar a los buques alienígenas, tal curso de acción no hubiera sido prudente ya que lentamente habría vuelto a nuestro planeta inhóspito.&#10;&#10;Sin embargo, los avances recientes en tecnología de fusión finalmente han dado a nuestros científicos la confianza para recomendar el despliegue de tales armas en nuestros interceptores. El Torpedo Fusion es nuestra última arma contra los UFOs menos maniobrables. Con mayor daño y alcance, debería dar a nuestros pilotos la ventaja que necesitan para derribar la nave alien más grande.</Data></Cell>
+   </Row>
+
+
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>106</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>109</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ModInfo>
+	<Name>Fire in the Hole (SP)</Name>
+	<VisibleName>Fire in the Hole (SP)</VisibleName>
+	<Version>3.1</Version>
+	<Author>Capiqua</Author>
+	<Languages>sp</Languages>
+	<Translates>Fire in the Hole</Translates>
+	<Description>Da la posibilidad de perforar los cascos de los ovnis en ciertas areas de vulnerabilidad. Daño adicional por colision (humos, incendios, etc.). ¡INCOMPATIBLE CON SITIOS DE CRASH MOD MEJORADOS! Fire in the Hole incluye cambios en ECS por defecto.&#10;&#10;
+	Traducido por Capiqua. Mod para colocar justo encima del original.
+	Adaptacion X:CE v0.35 : Rodmar18&#10;
+	</Description>
+</ModInfo>

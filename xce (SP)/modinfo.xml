@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ModInfo>
+  <Name>xce (SP)</Name>
+  <VisibleName>X:CE Base Mod (SP)</VisibleName>
+  <Version>0.35</Version>
+  <Author>Capiqua</Author>
+  <Languages>sp</Languages>
+  <Translates>xce</Translates>
+  <Description>Este mod Xenonauts: Community Edition (X:CE) proporcionando ajustes adicionales y ajustes de equilibrio mediante dos modificaciones adicionales, manteniendo una forma lo mas parecida posible al juego original. Se requiere Xenonauts de base para jugar con X:CE ya que el juego se negara a comenzar sin el. Es necesario iniciar el juego utilizando el ejecutable Xenonauts.exe proporcionado por este mod y no el ejecutable del juego original. La version Steam de X: CE actualiza el ejecutable principal, de modo que el lanzamiento del juego desde el cliente Steam funcione correctamente, para instalaciones que no sean Steam X: CE, el juego debe ser lanzado usando el ejecutable Xenonauts.exe ubicado en la carpeta principal. La version exacta del juego se puede verificar en la esquina superior derecha del lanzador.&#10;
+
+Version traduccida al espanol del Community Edition Xenonauts por Capiqua. Orden de prioridad en los mods:&#10;&#10;
+X:CE Balance Adjustments SP&#10;
+X:CE Settings SP&#10;
+X:CE Base Mod SP&#10;
+X:CE Balance Adjustments&#10;
+X:CE Settings&#10;
+X:CE Base Mod (abajo del todo)&#10;
+</Description>
+</ModInfo>

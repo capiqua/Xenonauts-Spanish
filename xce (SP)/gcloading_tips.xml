@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<GCLoadingTips MODMERGE="replace">
+
+<Tip priority="1">El lanzador del juego contiene una breve "Guia de inicio rapido" que explica la mecanica principal del juego.
+
+Considera la posibilidad de leerlo si te sientes muy forzado con la dificultad.
+</Tip>
+
+<Tip priority="2">Clic derecho en el objetivo para dedicar TU adicional para mejorar la precision de tiro. Algunas armas tienen mas niveles de punteria que otros.</Tip>
+
+<Tip priority="3">Puedes tener hasta tres interceptores en una escuadra, utiles para hacer frente a los UFOS mas grandes.</Tip>
+
+<Tip priority="4">Es importante construir bases adicionales y ampliar la cobertura de radar / interceptores sobre el planeta. Una base no sera suficiente.</Tip>
+
+<Tip priority="5">Puedes disparar por encima de coberturas (o agachar a Xenonauts) en una baldosa adyacente sin temor a ser golpeado.</Tip>
+
+<Tip priority="6">La construccion de matrices de radar adicionales, expandiran el alcance del radar de la base (hasta tres veces).</Tip>
+
+<Tip priority="7">Es posible abandonar la mayoria de las misiones de combate terrestres si las cosas no van bien.
+
+Retira tus fuerzas al area de extraccion y selecciona 'Abandonar mision' en el menu del juego.</Tip>
+
+<Tip priority="8">Asegura y manten al UFO durante cinco turnos y ganaras la mision de combate terrestre.
+
+No es necesario cazar a todos los aliens en el mapa.</Tip>
+
+
+<Tip>Puedes cambiar el directorio de partidas salvadas del juego en el lanzador.</Tip>
+
+<Tip>El juego incluye una novela gratuita que cuenta la historia de 1958 con incidentes en Islandia y la formacion de los Xenonauts.
+
+Se puede encontrar en la pestana Extras del lanzador.</Tip>
+
+<Tip>Los oficios de los Soldados no tienen ningun efecto en el juego, pero se pueden ordenar facilmente las tropas /equipos a la hora de guardar.</Tip>
+
+<Tip>Si las torretas de defensa de la base no logran repeler un ataque UFO, ellas reduciran el numero de aliens en el aterrizaje.</Tip>
+
+<Tip>Solo la mitad del dano recibido de una herida puede ser curada con un botiquin.</Tip>
+
+<Tip>Los soldados y las aeronaves pueden ser enviados a la batalla, siempre y cuando tengan mas de 50% de salud.</Tip>
+
+<Tip>Golpear aereamente, el lugar del accidente da casi tanto dinero como completarlo, pero no se recuperara nueva tecnologia y no concede ninguna experiencia a los soldados</Tip>
+
+<Tip>Las victimas Xenonauts tienen una pequena posibilidad de sobrevivir a una batalla, reducciendo la bajada de puntos de vida del soldado, antes de que caiga por debajo de cero.</Tip>
+
+<Tip>Los UFOs derribados sobre el agua no va a crear un lugar del accidente, pero aun asi proporcionan un bono de relaciones.</Tip>
+
+<Tip>Este juego no habria sido posible sin las muchas personas generosas que pre-ordenaron antes de que se completase.</Tip>
+
+<Tip>Los proyectos de investigacion se pueden compartir entre diferentes bases, pero no los proyectos del Taller.</Tip>
+
+<Tip>Si un interceptor es derribado y es recuperado, se reconstruira automaticamente.
+
+Esto tomara mucho mas tiempo que el trabajo normal de reparacion, por lo que debe evitarse siempre que sea posible.</Tip>
+
+<Tip>Utiliza el modo de punteria libre para apuntar cualquier cosa - activalo pulsando Ctrl mantenido o haciendo clic en la imagen del IU del arma.</Tip>
+
+<Tip>Puedes hacer clic-derecho en una puerta desde cualquier casilla adyacente para abrirla sin tener que caminar a traves de ella.</Tip>
+
+<Tip>Un objetivo suprimido no puede hacer disparo de reaccion y tendra TUs reducidos en el siguiente turno.</Tip>
+
+<Tip>Disparos de rafaga son inexactos, pero buenos para la supresion o en corto alcance.</Tip>
+
+<Tip>Acercarse a 5 azulejos de un objetivo, otorga precision de bonificacion por azulejo.</Tip>
+
+<Tip>Una unidad agachada es mas dificil de golpear y tiene una mejor punteria.</Tip>
+
+<Tip>Tanto la armadura humana y la alien, se degradan a medida que absorben el dano, cada vez son menos eficaces para el resto de la mision.</Tip>
+
+<Tip>Los danos tienen un gran elemento aleatorio - un tiro infligira entre el 50% y el 150% de su dano base.</Tip>
+
+<Tip>Precision y danos caen rapidamente si un arma esta fuera de su alcance efectivo.</Tip>
+
+<Tip>Ganar, concede una medalla a un soldado +1 valentia.</Tip>
+
+<Tip>Cambiar el nombre de los soldados, despues sus amigos y familiares haran que sus muertes sean mas tragicas / hilarantes.</Tip>
+
+<Tip>Al utilizar los botones para asignar cantidad, puedes hacer clic-derecho para anadir en unidades de 10 o Ctrl + clic para anadir el maximo disponible.</Tip>
+
+<Tip>Las granadas de humo son una buena manera de mantener vivos a tus soldados.</Tip>
+
+<Tip>Los escudos siempre bloquean tiros frontales, pero son menos eficaces desde los lados.</Tip>
+
+<Tip>Se puede establecer una trayectoria de vuelo de un interceptor manteniendo shift, generara una serie de puntos de referencia de movimiento.</Tip>
+
+<Tip>Una moral alta, ofrecera una proteccion contra poderes psiquicos alienigenas.</Tip>
+
+<Tip>El Xenonaut de mas alto rango en una mision es el comandante de la mision, proporcionara una ventaja moral global mientras viva.</Tip>
+
+<Tip>Una herida tambien puede causar sangrado, consumira SALUD en cada turno hasta que sea curada por un botiquin.</Tip>
+
+<Tip>Un soldado sufrira un reducimiento de TUs, si transporta mas de lo que su fuerza le permite.</Tip>
+
+<Tip>Disparar con armas pesadas se usara la Precision o Fuerza mas baja.</Tip>
+
+<Tip>Un soldado de baja moral puede entrar en panico, huir o volverse loco en el inicio de cada turno.</Tip>
+
+<Tip>Por defecto, una unidad puede utilizar TU reservadas para disparar su arma, por lo que es mas facil moverse en la mayor distancia posible y aun disparar su arma despues.</Tip>
+
+<Tip>Disparo de Reaccion se calcula a partir de la estadistica Reacciones y el % restante de TU.  
+
+Las unidades con un alto % de TU restante son menos propensos a recibir disparos de reaccion cuando se realiza una accion.</Tip>
+
+<Tip>Se muestra el cambio de la financiacion estimada para una region, en la parte superior derecha de la pantalla Geoscape, poniendo el raton sobre cada region.</Tip>
+
+<Tip>Los soldados que esperan justo al lado de una esquina se ladearan cuando pasen disparos mas alla de la esquina.
+
+Esto puede permitirles disparar incluso a los enemigos que no tienen angulo para disparar hacia atras.</Tip>
+
+<Tip>Un soldado que mira diagonalmente mas alla de una esquina puede mirar alrededor y obtener una mejor vista.
+
+Esto posiblemente puede significar detectar incluso a enemigos que no pueden ver al soldado debido a la esquina.</Tip>
+
+<Tip>Los soldados pueden saltar por la mayoria de ventanas abiertas o rotas.
+
+Utiliza el ataque cuerpo a cuerpo (tecla de acceso directo M por defecto) para romper rapidamente una ventana.</Tip>
+
+<Tip>Utiliza el boton 'Cambiar nivel de techo y pared' en el panel para cambiar entre los 3 modos de visualizacion diferentes si quieres ver mejor el campo de batalla.</Tip>
+
+<Tip>La precision del lanzamiento disminuye con la distancia de lanzamiento. Lanzar a la distancia maxima de lanzamiento es bastante inexacto.</Tip>
+
+<!-- <Tip>El juego viene con un ejemplo mod oficial (Pack Armas Sovieticas) y una seleccion de mods hechos por la comunidad.</Tip> -->
+
+</GCLoadingTips>

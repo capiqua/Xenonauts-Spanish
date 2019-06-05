@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chris</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-06-05T13:13:11Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9615</WindowHeight>
+  <WindowWidth>20070</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">armour.seer</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Armadura Aegis</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/seerarmour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Armaduras Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">La armadura anti-psion S20 &quot;Aegis&quot; fue desarrollada en respuesta a los repetidos ataques psíquicos infligidos a nuestros soldados. Inicialmente, estos ataques se limitaban a trastornar la moral de la víctima, pero descubrimos a nuestro favor que los Caesiens (especialmente los de alto rango) tienen el poder de, literalmente, tomar el control. Después de pruebas cerebrales realizadas en los especímenes retenidos y el estudio de los cascos usados por los oficiales y líderes Caesiens, pudimos idear una contramedida dirigida a prevenir dramas como el del cual el Teniente Tucker fue la víctima.&#10;&#10;El casco de los Caesianos de alto rango solo amplifica las habilidades psíquicas ya bien desarrolladas. Su funcionamiento se basa en un sistema complejo que genera impulsos eléctricos. Hemos invertido con éxito los efectos para proteger al usuario de los intentos de intrusión mental mientras mejoramos la tolerancia al estrés y el trauma inevitablemente experimentado por los soldados en el terreno.&#10;&#10;El escudo neuroeléctrico (llamado sumariamente &quot;escudo mental&quot; por los ingenieros) tiene dos niveles de protección. El primer nivel es una defensa pasiva comparable a las murallas de un castillo. El sistema controla la actividad cerebral del sujeto en tiempo real y aplica pequeños impulsos eléctricos a ciertas áreas del cerebro para contrarrestar cualquier perturbación registrada. El segundo nivel de defensa es más activo. En el caso de una actividad cerebral anormal y grave, como es el caso durante los ataques psíquicos, el auricular emite un pulso de mayor intensidad para reequilibrar los impulsos neuronales. Los usuarios suelen describir una sensación de zumbido seguida de un estado de relajación.&#10;&#10;En cuanto a la armadura, se puede comparar con un modelo de la armadura Lince al que habríamos injertado algunos sistemas Predator para mejorar el rendimiento. Las aleaciones extraterrestres clásicas que componen la armadura Lince se han endurecido para proporcionar una protección más efectiva. La combinación también se ha beneficiado de algunas mejoras, pero el cambio más notable es la integración de una versión más ligera del exoesqueleto del Predator. Este modelo no ofrece el mismo rendimiento que su predecesor, pero aún así le dará una gran bonificación de poder al usuario. A cambio, la armadura Aegis es menos codiciosa y está satisfecha con una batería simple con alenio, instalada en la parte posterior. En cuanto al casco, está alimentado por baterías auxiliares dedicadas a él. Este último puede garantizar indefinidamente el primer nivel de protección mental, pero la energía necesaria para cancelar un ataque psíquico reduce la autonomía del casco a tres intervenciones de segundo nivel.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

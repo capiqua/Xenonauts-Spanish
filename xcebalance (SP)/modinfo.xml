@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModInfo>
+  <Name>xcebalance (SP)</Name>
+  <VisibleName>X:CE Balance Adjustments (SP)</VisibleName>
+  <Version>0.35</Version>
+  <Author>Capiqua</Author>
+  <Languages>sp</Languages>
+  <Translates>xcebalance</Translates>
+  <Description>Este mod proporciona ajustes de equilibrio para Xenonauts: Community Edition (X: CE). Estos cambios se deben ver generalmente como soluciones o mejoras, como soldados que portan escudos que proporcionan mejor proteccion tambien para los soldados que estan detras de ellos, mejor UFO IA (inteligencia artificial) o reducir el impacto de ciertas tacticas que se consideran desequilibradas (como tacticas baratas de los jugadores con lo que podria considerarse exploits).&#10;&#10;
+
+El uso de este mod se recomienda para jugar a X:CE.&#10;
+La base mod X:CE es necesaria para este mod.&#10;
+Traducido por Capiqua.&#10;
+</Description>
+</ModInfo>

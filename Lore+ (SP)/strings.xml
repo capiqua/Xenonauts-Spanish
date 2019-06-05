@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Solver</Author>
+  <LastAuthor>DUman</LastAuthor>
+  <Created>2011-04-13T20:36:37Z</Created>
+  <LastSaved>2014-07-06T13:17:28Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6315</WindowHeight>
+  <WindowWidth>13425</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>214</TabRatio>
+  <DisplayDrawingObjects>PlaceHolders</DisplayDrawingObjects>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s57" ss:Name="Normal 2">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s58" ss:Name="Normal 2 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s59" ss:Name="Normal 3">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s60" ss:Name="Normal_strings_2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s61">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s67" ss:Parent="s59">
+   <Alignment ss:Vertical="Center"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s68" ss:Parent="s59">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s71" ss:Parent="s58">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s72" ss:Parent="s57">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#C00000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Interior ss:Color="#C00000" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="strings">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=strings!R1C1:R2102C10"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2000" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="246"/>
+   <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
+           <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.ImpossibleResearch</Data></Cell>
+    <Cell><Data ss:Type="String">Investigacion Imposible</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.RecursiveResearch</Data></Cell>
+    <Cell><Data ss:Type="String">Investigacion en Bucle Recursivo</Data></Cell>
+   </Row>
+          <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
+    <Cell><Data ss:Type="String">¿Perdidos?</Data></Cell>
+   </Row>
+             <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Espionage2</Data></Cell>
+    <Cell><Data ss:Type="String">¡Un espia!</Data></Cell>
+   </Row>
+                   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Espionage3</Data></Cell>
+    <Cell><Data ss:Type="String">Produccion masiva de Laser</Data></Cell>
+   </Row>
+        <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Sebillian No-Combatiente</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Sebillian</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Sebillian Avanzado</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Caesan No-Combatiente</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Caesan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Caesan Psion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Caesan Avanzado</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Andron</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Andron Avanzado</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Reaper</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.WraithClass</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Wraith</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Harridan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de Exploracion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de Investigacion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de ataque de Terror</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de ataque Terrestre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de Bombardeo</Data></Cell>
+   </Row>
+      <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de Intercepcion</Data></Cell>
+   </Row>
+    <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de Construccion de Base</Data></Cell>
+   </Row>
+    <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
+    <Cell><Data ss:Type="String">Mision de Asalto a la Base Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.AndronVivisection</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Analisis Andron</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Una carcasa de Andron ha sido recuperada intacta. Este tema de investigacion analizara la carcasa recuperada para identificar sus debilidades. Al finalizar, nuestras tropas obtendran un impulso de daño contra esta especie alien.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>2059</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2098</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R2102C10"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

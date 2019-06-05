@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chris</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-06-05T13:13:11Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Row ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">¿Perdidos?</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/missing</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Extraterrestres</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, ¿Ha visto alguna vez mi estudio radiológico de Alenium? ¿No? ¡Típico! ¡Me tomo el tiempo para diseñar un sistema de archivos impecable y mi equipo todavía sigue con papeles! Esta no es la primera vez que sucede. Hemos perdido varios artículos de investigación. Nada más que un día como máximo se está demorando el trabajo en nuestro programa de desarrollo de armas y son horas de las que no nos podamos permitir desperdiciar. Me temo que no podremos tolerar tal nivel de amateurismo, Comandante. He hablado con el jefe de seguridad y le he recordado que si pone a sus guardias en las puertas de mis laboratorios, deberían tomarse su trabajo más en serio. Espero que sea suficiente.</Data></Cell>
+   </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">¡Descubierto!</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/busted</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Extraterrestres</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Un espia.&#10;&#10;En MIS laboratorios.&#10;&#10;No... no... es peor que eso. Al menos un espía es francamente engañoso. ¡Un espía no es alguien a quien invite a unise a mi equipo para detener este evento de nivel extinto y vender el trabajo que sudé y derrame sangre al mejor postor!&#10;&#10;Mi. Personal. ¡Asistente! Esas miradas maliciosas... ¡los documentos que presenté a Nature que fueron rechazados! Ese tonto ha estado filtrando todo lo que pasó a través de sus manos inmundas y vivientes tan rápido como yo y mi equipo lo descubrimos. ¡Ahora los investigadores de todos los gobiernos y corporaciones importantes del planeta se están rascando sus cráneos neandertales sobre mis teorías y robandome el crédito! Bueno, ¡que lo intenten! Atrapamos a la pequeña rata escondiendo uno de nuestros prototipos, por lo que deben tener problemas para captar los matices de la tecnología alienígena, incluso con mis notas. ¿Cuáles serán las consecuencias a largo plazo de este traidor, no le puedo decir, pero a corto plazo? No espere vender alguna vez nuestro equipo derivado-alien.</Data></Cell>
+   </Row>
+            <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Producción masiva de Láser</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/magazine</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Extraterrestres</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Tal vez el robo desnudo de mi investigación tenga un lado positivo después de todo, Comandante. He estado siguiendo la progresión de nuestra tecnología robada a través de canales no oficiales y parece que el poder mental combinado de este planeta finalmente ha descifrado una fracción de lo que mi equipo ha logrado crear. Las armas láser ahora se producen en masa a escala mundial y se envían apresuradamente a tantos soldados como puedan sacarlos de la industria todavía existente. Puede esperar que las fuerzas amigas estén mejor armadas de lo que estaban antes. Nuestras proyecciones sugieren que la probabilidad estadística de que un soldado no Xenonaut muera o quede severamente mutilado en combate ha disminuido del 95% al 90%.&#10;&#10;No es todo soleado y reluciente, por supuesto. Ahora que cada nación tiene su propio programa de armas (exitoso o no), dependen por completo de los ufos estrellados para alenio y aleaciones, por lo que nuestros patrocinadores son nuestros mayores competidores para los recursos que necesitamos para ganar esta guerra. Además, el laboratorio de xenoastronomía nos ha informado, de que la armada alienígena parece estar casi completa con el reacondicionamiento de su mayor nave invasora. Estos héroes valientes tienen un día de retraso y un billete de dólar cortado. A menos que logren elevarse a nuestro propio nivel tecnológico, seguimos siendo la mejor y única esperanza para la humanidad.&#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de Exploración</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/scouting</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Hola Comandante, según lo solicitado, en el Plan Estrategico hemos comenzado a analizar la actividad ET UFO y determinar sus objetivos militares. Lo que significa no faltarle el respeto a nuestros colegas del Departamento de Investigación y Desarrollo, pero interpretar la estrategia ET es más adecuada para los hombres que lo hacen para ganarse la vida. Le mantendré informado sobre lo que podamos descubrir sobre la actividad UFO extraterrestre, como ahora, por ejemplo.&#10;&#10;Hoy temprano hubo un avistamiento confirmado de un UFO, de clase Explorador Ligero, dando vueltas sobre una estación de investigación clasificada en America. No tomó ninguna accion visible, pero los operadores de radio locales detectaron estallidos inusuales de energía en la banda VHF y los investigadores detectaron explosiones simultáneas en la banda SHF. Lo he cruzado con informes similares en Alemania, Australia y Hong Kong. Y teniendo en cuenta la importancia estratégica de las ubicaciones involucradas y el análisis de los exploradores ligeros del Departamento de Investigación y Desarrollo, estoy seguro de que estos exploradores estaban reuniendo y transmitiendo información sobre futuros objetivos potenciales &#10;&#10;Los UFOs en las misiones de exploración permanecen en el aire durante un período prolongado de tiempo, reuniendo información sobre objetivos potenciales. No parece haber un plan particular para lo que cubren, por lo que debería ser bastante fácil interceptar uno. Como los ETs tienen naves dedicadas para exploración, puede esperar que las misiones de exploración se lleven a cabo mediante pequeñas señales. Mientras más inteligencia pueda reunir un Explorador, más dañinos serán los ataques posteriores, así que intente obtener tantos exploradores como pueda. Incluso si no podemos recuperar el Lugar del accidente, al menos podemos asegurarnos de que los extraterrestres esten peleando en la oscuridad.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de Investigación</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/research</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Antes de dejar la fuerza aérea, mi último trabajo fue trabajar con archivos insolistos y si lo reconociese mejor, diría que algún bromista lo había enviado todo desde Langley y lo había dejado en mi escritorio. Ese montón de informes enfrente a usted es una parte considerable de avistamientos de UFOs recientes y son como algo salido de un cómic. Descripciones casi vívidas de actividades inusuales, casi paranormales, como tormentas que aparecen repentinamente de la nada, luces misteriosas y signos de mutilación inexplicables del ganado. ¡Incluso tengo un informe de un hombre que dice haber sido obducido y luego expulsado por sus abducidores! Los extraterrestres parecen estar llevando a cabo algún tipo de investigación, pero por qué y por qué razón, no lo sabemos.&#10;&#10;Las misiones de investigación parecen estar restringidas a sus naves exploradoras que escanearán un área predefinida en busca de sujetos adecuados y lugares para llevar a cabo sus experimentos. Los exploradores que realizan investigaciones también aterrizarán con bastante frecuencia para obtener muestras y llevar a cabo trabajo de campo. Las misiones de investigación pueden causar bajas, pero nada importante. Lo que sea que hagan, Comandante, creo que es mejor que no tengamos la oportunidad de averiguarlo. ¿No es así?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de ataque de Terror</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/terrorsite</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Estuve hablando con los jefes de Comunicación y Detección, sobre los últimos movimientos de UFOs y entre nosotros... hemos descubierto una nueva y peligrosa dirección a la que se dirigen los extraterrestres. Hace poco tiempo, no estamos seguros exactamente de cuándo, un UFO se deslizó y apuntó a la red, consiguiendo, ¡un festival músical! Los organizadores lo habían mantenido en un campo abierto en la creencia errónea de que los UFOs solo atacaban ciudades. Esto no fue un ataque aéreo: los extraterrestres usaron equipos de tierra para masacrar a los asistentes al festival.&#10;&#10;No tenemos mucho por donde ir: nuestros patrocinadores llegaron primero a los pocos supervivientes y aunque tenemos las transcripciones de las entrevistas, hay brechas enloquecedoras en la información. De lo que sí podemos estar seguros, es de que hubo un número significativo de extraterrestres implicados en este ataque y desplegaron una especie de Frankenstein del tamaño de un hombre que fue frenado por un cable de alimentación sin protección.&#10;&#10;Mi equipo cree que se trató de una prueba y podemos esperar más ataques, de los cuadros de tropas de choque alienígenas encargados de aterrorizar a las naciones que financian masacrando a la población civil. Uno de mis jóvenes que es aficionado a la historia estableció un paralelo entre este y el método utilizado por Genghis Khan. Borraría una ciudad y amenazaría a otras ciudades con la amenaza de desaparecer si se resistiesen.&#10;&#10;Los ataques de terror exitosos son los más dañinos de cualquier misión alien en nuestra organización. Nuestros patrocinadores insinuaron fuertemente que los protocolos nucleares se implementarán para evitar lo que ellos llaman "contaminación biológica". Los políticos nos culparán por mantener a Joe Citizen fuera de nuestras espaldas y nuestra financiación y reputación recibiran un golpe del que es difícil regresar. Si salvamos una ciudad de los extraterrestres que nos parezca particularmente buena, podemos esperar un gran impulso en la financiación de cada sitio de terror que limpiamos. Los UFOS en misiones terroristas son señales de grado medio como mínimo y casi siempre son escoltados. Tratarán de sacarnos de la pista, así que busquemos señales lentas que se muevan aleatoriamente pero que parezcan estar circulando en una ruta específica de ciudades; probablemente sea una nave en una misión de terror.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de ataque Terrestre</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/groundattack</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Soy bastante amigable con uno de los investigadores junior en el Departamento de Investigación y Desarrollo (las personas mayores no tienen tiempo para nuestros gruñidos) y ella me dijo que habían identificado más de tres mil quinientos artefactos aliens separados, orbitando alrededor de nuestro mundo. Si todos aterrizaran mañana, estaríamos muertos. Tal como está, los extraterrestres tienen &quot;meramente&quot; comprometida la guerra aérea más grande desde que Hitler estuvo en el poder. &#10;&#10;El análisis de patrones de ataques aéreos ET sugiere que actualmente se están enfocando en objetivos "blandos": autopistas, pueblos pequeños e incluso aislados buques de guerra patrullando. Estos objetivos son difíciles de responder para los servicios de emergencia y la capacidad de los ETs para atacar y retirarse en cualquier lugar, hace que sea imposible para las fuerzas locales concentrarse más cerca de los centros de población más grandes a interceptar.&#10;&#10;Las misiones de ataque terrestre pueden llevarse a cabo con cualquier grado de señal, desde el más pequeño hasta el más grande. En lugar de recibir un objetivo específico, los UFOs patrullarán unas ruta del planeta en busca de objetivos oportunos. Los UFOs encargados de una misión de ataque a tierra atacarán varias veces antes de retirarse para rearmarse y reabastecerse de combustible, y pueden causar graves estragos.&#10;&#10;Son malditamente listos, Comandante. Golpean en lugares que no tienen un impacto militar o económico inmediato, pero reducen nuestra confianza y cortan las líneas de comercio y comunicación. Si nos aislamos, el planeta se cerrará tan efectivamente como si bombardearan cada capital a escombros. Nuestra experiencia y tecnología de detección nos da una oportunidad de luchar contra los ataques de ETs, pero el hecho es que hay demasiados y muy pocos de nosotros para manejarlos todos a la vez. Mi consejo es construir tantas bases como se pueda. No importa los gemidos del Departamento de Investigación y Desarrollo para obtener más fondos. Esos empollones no tienen ni idea de cómo funciona el mundo real y necesitamos los pies en el suelo, no mentes en el cielo.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de Bombardeo</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/bombingrun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Departamento de Investigación y Desarrollo pudo extraer y traducir un plan de vuelo de los restos del bombardero ET derribado y nos lo pasó. Hemos trazado la ruta e intersectado las zonas industriales de varias ciudades además de una base clasificada. El tiempo es demasiado estrecho y los sitios son demasiado grandes para los aterrizajes de tierra, pero son adecuados para una serie de ataques aéreos rápidos que culminen con una fuerte incursión en la base. Comandante, parece que los ET van a intensificar su campaña aérea.&#10;&#10;Podemos esperar que los bombarderos ET apunten objetivos estratégicos, económicos y civiles de importancia, pero con todo un planeta para elegir va a ser difícil predecir dónde van a atacar. Si este plan de vuelo es una indicación, parece que tendrán la tarea de atacar a varios objetivos menores y luego prepararse para una incursión importante que los expondrá al ataque de nuestros interceptores. Es muy probable que los bombarderos sean escoltados y sean una señal de clase media o más grande. Busquemos señales medianas con patrones de vuelo que se centren en objetivos específicos pero no en tierra.&#10;&#10;Se espera que las víctimas previstas de un bombardeo sean ciertas, por lo que tendremos que detenerlos, como una alta prioridad, Comandante. Siempre podemos enviar un equipo para hacer frente a los aterrizajes de tierra, pero los bombarderos solo pueden ser interceptados.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de Intercepción</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/interception</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">¿Qué quiere escuchar primero, las buenas o las malas noticias? La buena noticia es que estamos teniendo un gran impacto en las operaciones aéreas de ET. Los incidentes están relacionados con los patrocinadores que cubrimos y los Departamento de Investigación y Desarrollo estan felices con la tecnología que estamos recuperado. La mala noticia es que el alto mando de ET ha intensificado las operaciones mediante la introducción de naves de combate dedicadas.&#10;&#10;Los extraterrestres han establecido patrullas aéreas de combate, para contrarrestar directamente tanto a nuestros propios interceptores como a las fuerzas nacionales. Los UFOs encargados de misiones de interceptación patrullarán los cielos, atacando aviones civiles y militares. Los datos del interceptor anterior sugieren que los combatientes ET en las misiones de patrulla aérea de combate, harán de las aeronaves Xenonaut una prioridad. Si los interceptores ET detectan nuestras naves (probablemente informados por los satélites ET), se dirigirán directamente hacia ellos y forzarán una pelea. Los interceptores son el tipo más probable de UFOS en las patrullas aéreas, así que busquemos señales muy pequeñas. Las Lanzaderas serán objetivos especialmente fáciles, por lo que recomendaría que se eliminen de las escuadras con misiones de interceptación antes de abordar otras naves para evitar que ocurran accidentes al equipo de tierra.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de Construcción de Base</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/basebuild</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Tengo un informe de un combate entre fuerzas locales y extraterrestres en torno a una ladera históricamente importante a la que los turistas acuden en masa todos los años. Mire las fotos aquí, y aquí. Puede ver que han usado algún tipo de dispositivo para perforar un túnel de un kilómetro de longitud en la roca. Desafortunadamente, esto no es solo un simple vandalismo, esto es algo más siniestro.&#10;&#10;La flota orbital ET les da la libertad de atacar a cualquier objetivo en cualquier parte del mundo, pero esta libertad está restringida por sus líneas de suministro. Los UFOS ET deben regresar a sus naves nodrizas para reabastecerse de combustible, lo que los cabezahuevo me dicen que es físicamente agotador, incluso para su avanzada tecnología. Esta dependencia total significa que la flota debe contar con una operación de suministro masivo y continuo para proporcionarle todo lo que necesiten, a pesar de que nuestro planeta tiene recursos más que adecuados si solo pudieran alcanzarlos.&#10;&#10;Para aliviar la carga de suministros y reparación de la flota, deben construir bases de operaciones avanzadas en el planeta como lugares para reacondicionar y reparar naves más pequeñas, organizar áreas para misiones en tierra y depositos de suministros para expediciones de busqueda a fin de reducir la dependencia de los suministros. Este túnel parece un agujero de prueba para ver si esa ladera sería un candidata adecuada. Lástima que no hicieran su trabajo, ¿eh?&#10;&#10;Dejando de lado los paisajes nacionales, podemos esperar que las bases ET se establezcan en lugares remotos lejos de los centros de población. Esto hará que sea difícil rastrearlos. He despachado agentes para recopilar información, para que puedan nuestros analistas, estar vertiendo datos históricos de avistamientos de UFOs, pero esto llevará tiempo y no es una fuente confiable de información. La forma más confiable de detectar una base ET es mediante el rastreo de la actividad UFO.&#10;&#10;Solo las señales de clase media o superiores llevarán a cabo misiones de construcción de bases. Busque señales medianas que aterrizen, despeguen y aterrizen poco después, haciendo esto varias veces. Esa será una señal de que los ET están inspeccionando los sitios para ver si son adecuados para una base.&#10;&#10;Sus bases necesitarán suministros esenciales que ellos mismos no pueden fabricar. Entonces, si no pueden encontrar ninguna base, buscaremos señales de clase media que pasen por lugares que no parecen ser una ciudad o su propia base. Si seguimos a esa nave hasta su destino final, debería llevarle a la ubicación de la base ET.&#10;&#10;Las bases ET son parásitos que minarán la voluntad del patrocinador al que están vinculados. Si bien no tienen un efecto evidente a corto plazo, a largo plazo son tan peligrosos como cualquier ataque alien directo.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Misión de Asalto a la Base Xenonaut</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/baseattack</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">He sacado información de un viejo amigo de las fuerzas armadas sobre un asalto terrestre a una instalación profunda de lanzamiento nuclear. Un grupo encubierto de extraterrestres pudo acceder a la base a pesar de que la mayor parte estaba a medio kilómetro bajo tierra y lucharon endemoniadamente la seguridad externa de la base. Solo al colapsar deliberadamente el ala residencial, el comandante de la base lo salvó. Eso me preocupa... si los extraterrestres se lo están haciendo a los patrocinadores, tarde o temprano nos lo harán.&#10;&#10;La consecuencia de que los ET ataquen con éxito una de nuestras bases es la pérdida de todos los activos operativos en la base y el área particular cubierta por la base quedará indefensa hasta que podamos construir una nueva. Incluso si expulsamos a los extraterrestres, pueden causar daños duraderos al destrozar hangares, destruir laboratorios y demoler talleres. No se siente a esperar a los extraterrestres, Comandante. ¡Vaya y encuentrese con ellos a la fuerza!&#10;&#10;Sin una forma de interceptar y decodificar las comunicaciones alienígenas, será difícil saber si un UFO atacará nuestra base o si pretenden atacar una ciudad. Busque señales de clase media escoltadas y superiores. No se hará obvio que vayan a por nosotros, pero tarde o temprano tendrán que dirigirse directamente a nuestra base. Las bases más susceptibles de ser atacadas serán las que tienen la mayor cantidad de datos operacionales, es decir, las más antiguas. Probablemente sería una buena idea colocar una guarnición o levantar defensas en las bases más expuestas.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Reaper</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/reaper_terrorist</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Esto fue un mal negocio para Hawkins, Comandante. Estoy seguro de que le hemos estado lidiando con problemas de cuarentena. "Afortunadamente" abrió la cápsula de maduración de las larvas de Reaper en su lugar. El lado positivo de esta nube es el efecto de la metamorfosis de las larvas Reaper sobre los humanos. De acuerdo a su conformidad, he reunido lo que sabemos sobre su estructura de clase y tambien añadimos lo que tenemos sobre los zombis Reaper.&#10;&#10;Alpha Reaper: como si fuera el Reaper estándar, hemos identificado ciertos Reaper que son más rápidos, más fuertes y más resistentes que sus hermanos comunes. Estos Reaper "alfa" son relativamente pocos en número, pero son tan buenos como el Reaper estándar. Si no se controlan, pueden reducirse a farfullar hordas de zombis en poco tiempo. El Alpha Reaper se identifica por su tono más claro.&#10;&#10;Zombie: El zombi se asemeja a una figura de cera jorobada que ha estado demasiado cerca del fuego. Las características faciales se encuentran juntas y las extremidades se alargan, se unen a los músculos y se deforman. La coraza, de la cual el Reaper madura rápido se mezclará con venas llenas de manchas. En este estado, los zombis pueden hacer poco más que balancear sus extremidades mientras gritan de dolor y de rabia. ¡No deje que un zombie se acerque demasiado! La muerte de los anfitriones desencadena un estallido de crecimiento acelerado en las larvas y no querrá que el grito de nacimiento de un nuevo Reaper suene con el estallido de muerte de sus soldados.&#10;&#10;Alpha Zombie: Los Alpha zombies son superficialmente de la misma forma, pero los procesos crean el supercambio zombie. Sus formas son más capaces de soportar la carga extra de un alfa, y son más rápidos, más fuertes y más resistentes.&#10;&#10;Tenga mucho cuidado si sus propias tropas están infectadas, Comandante. Si bien no tienen el cerebro para usar sus armas, todavía usan los agraciados zombies civiles.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Wraith</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/wraith_warrior</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, por favor hable con sus hombres. Si una prueba está sujeta a una brecha en la cuarentena, puede ser sometida y restringida a nuestros especialistas para que puedan llegar a la escena. Sería muy enfáticamente agarrar lo que haya a mano y recrear las más sangrientas escenas de la matanza de Texas, aunque el sujeto se las arregló para teletransportarse al comedor durante el tiempo de la comida. Cuando sus brutos terminaron no quedaba suficiente de los Wraith para el análisis de tejidos.&#10;&#10;Al igual que Harridans, los Wraith tienen una estructura de clase truncada. Esto probablemente tenga que ver con su estatus de élite en la jerarquía alien. ¡Ningún Wraith necesita sus manos como mano de obra! Mientras que la armadura de batalla Wraith es de color verde uniforme, hemos notado una considerable cantidad de personalización sin ser un traje exactamente igual. Esta es probablemente la forma de distinguirse socialmente e indicar que tienen un sorprendente nivel de independencia en la jerarquía alienígena. Hemos identificado ciertos estratos de rango dentro del Wraith militar, identificables por la cantidad de armadura que se les permite usar.&#10;&#10;Soldado: La clase de soldado Wraith usa un mono blindado segmentado con un chapado adicional en los hombros y un rifle de plasma. Si bien esto parece tener poco poder, su capacidad para teletransportarse a sus vehiculos hacen la necesidad de no llevar armas pesadas.&#10;&#10;Warrior: La clase Warrior tiene más variación en armamento con plasma pesado y cañones de plasma que son bastante comunes. Además de las placas adicionales en las piernas, la principal diferencia está en el grosor y la calidad de los implantes de armadura subdérmicos, que mejora enormemente su elasticidad.&#10;&#10;Oficial: Al igual que otros oficiales, el oficial Wraith es la única clase que usa un casco que cubre la parte más vulnerable de su anatomía: los nódulos azules. Realmente no entendemos por qué no usan cascos para proteger sus nodos. Si bien los nodos producen mucho calor, no debería ser una cuestión de superconductor para las superficies como la pintura.&#10;&#10;Elite: El examen de la armadura de los élites sugiere considerables cambios después de la "comercialización", siendo el más común un tratamiento similar al proceso de endurecimiento que hemos observado en Naves de Aterrizaje. También hemos observado implantes de un tipo desconocido que mejoran la flexibilidad, la agilidad y la capacidad de recuperación general del Elite. Los élites usan las armaduras más completas: un mono verde similar al diseño de Sebillian Elites, siendo un conjunto de blindaje más perfecto.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Harridan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/harridan_elite</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Al igual que algunos de los contadores de frijoles más desagradables en la administración, la estructura de la clase Harridan es corta, contundentemente miope y centrada en su papel. Hemos identificado varias clases de Harridans, su principal característica distintiva es la calidad, cobertura y efectividad de la armadura que visten.&#10;&#10;Solider: A menudo visto acompañando a Androns (sin duda para proporcionar soporte técnico y de largo alcance), la clase Solider azul y blanca es el oponente más común al que se enfrentará. Espero no tener que advertirle sobre su habilidad con los rifles o sus saltos.&#10;&#10;Guerrero: la mejora más obvia que recibe el Guerrero púrpura es la adición de guantes y botas con armadura, así como mejoras en sus sistemas de selección de blancos. Se han visto guerreros con cañones de plasma y rifles de plasma, ¡así que tenga cuidado!&#10;&#10;Oficial: los oficiales son fácilmente identificables por su armadura roja y el conjunto adicional de alas en su mochila. El oficial de Harridan actúa menos como comandante y más como un nodo de coordinación entre Harridans diferentes. Los oficiales son los más inteligentes de la raza Harridan y son de mente más independiente, así que tenga cuidado cuando se enfrente a uno.&#10;&#10;Elite: La Elite es físicamente indistinguible de otros Harridans, sin embargo, sus trajes negros y grises son de la más alta calidad e incorporan elementos de potencia que mejoran enormemente sus capacidades físicas y mentales. Un partida táctica cercana a Oficiales, el Elite es superior a otros Harridans en todos los sentidos.&#10;&#10;Inusualmente, no hay evidencia de líderes de alto rango entre los Harridans. Nuestra mejor hipótesis es la naturaleza de cómo los Harridans se comportan excluyendo la capacidad mental para grandes estrategias. Dependen de los líderes de otras razas para proporcionarles dirección... y objetivos.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Andron</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/andron_guard</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, ¿qué esperaba exactamente cuando le pidió a Ingeniería detalles sobre los Androns? Su ensayo divagante y lleno de jerga revolcándose en la trivialidad de los componentes internos no es precisamente el tipo de información que los hombres necesitan o puedan entender. Mire, lo primero que debe saber es que no hay tipos de no-combatientes entre los Androns. Estas máquinas de muerte ambulante son capaces de manipulación fina y su lógica adaptativa les permite operar equipos sin asistencia especial. Los Andrones son tan capaces en combate como de pilotar un UFO. En segundo lugar, hemos recopilado datos sobre dos amplias "clases" de Andron observadas en el campo.&#10;&#10;Los guardias son su última línea de defensa. Hemos bautizado la clase camo-verdes a los Andrón clase &quot;guardias&quot; debido a sus patrones de comportamiento bastante predecibles y su actitud protectora hacia otros aliens. Es el modelo más comúnmente informado en el campo. Generalmente equipado con un rifle de plasma pero también visto con armas más pesadas, esta clase de Andron es un terror para los soldados comunes y debe ser abordado con cuidado por cualquier soldado armado solo con un rifle.&#10;&#10;Los soldados, sin embargo, son más grandes, más imponentes y están mejor armados que la clase de guardia. La clase Andron de soldado azul marino lleva exclusivamente armas pesadas, especialmente la pistola pesada de plasma. El alcance más corto de la pistola pesada de plasma significa que debe acercarse para estar en rango óptimo, pero que se adapta al estilo de ataque de los Androns.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Andron Avanzado</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/andron_elite</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">La aspereza de Ingeniería no es mi culpa. Necesitan tener una piel más gruesas si van a estar en este negocio. Pero, en interés de las buenas relaciones, les pedí que aportaran su experiencia en el análisis de los Androns y me proporcionaron una información útil. Como regla general, cuanto más peligroso es un Andron, más grande y voluminoso se vuelve con la clase Elite como el ápice de poder y tamaño físico. Hemos identificado varias clases más de Andron para que pueda leerlo detenidamente.&#10;&#10;Guerrero: dudo en calificar cualquier modelo de robot producido en masa como un "veterano", pero esto se ajusta mejor a las especificaciones. La clase de Guerrero azul claro está mejor armado y equipado que la clase de soldado de primera línea y lo que es más importante, tiene sistemas de análisis tácticos y lógicos superiores.&#10;&#10;Elite: el modelo GT de Androns con todos los extras opcionales. La masiva clase Elite luce un elegante trabajo de pintura roja a la vez que conserva la misma forma básica del Guerrero. Debajo del caparazón, una fascinante combinación de sofisticados amortiguadores de retroceso, estabilizadores gravitronicos y un potente bastidor de carga convierte a la Élite en un microbicicleta bípeda, capaz de moverse y disparar armas pesadas sin una caída significativa en precisión o velocidad.&#10;&#10;Oficial: Este majestuoso monstruo morado posee el mismo poder que el Elite, pero empaquetado en un marco más elegante. Los oficiales son los Andrones más peligrosos que se enfrentará y eso es decir algo, ya que combinan el poder crudo de Elites con una profunda inteligencia táctica.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Sebillian No-Combatiente</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sebillian_noncom</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, nuestro Xenosociologista ha estado compilando información sobre la raza Sebillian. La mayor parte, aunque interesante, es irrelevante para las operaciones de campo. Me tomé el tiempo de redactar un resumen de la información más útil para los hombres.&#10;&#10;Estoy seguro de que ha escuchado la autogratificación y las palmaditas en la espalda en el vestuario por el éxito de la última misión. Odio convertir esas sonrisas en ceños fruncidos (en realidad, nó), pero muchos de esos "objetivos duros" fueron, curiosamente, no destinados a operaciones terrestres. Según nuestros datos, tenemos buenas razones para creer que una cantidad considerable de sujetos recuperados son no-combatientes. Forman el núcleo operativo de cualquier tripulación UFO que actúa como pilotos, ingenieros, navegantes y otros oficios esenciales que no son de combate. No necesitan ni reciben más que un entrenamiento básico en combate, están armados con pistolas y solo tienen su piel desnuda (aunque flexible) como protección. (Incidentalmente, he tenido que castigar a algunos asistentes del laboratorio por despellejar a los sebillianos y venderles sus pieles a sus hombres. ¿Sabía que el Cabo Ingles es un trabajador aficionado al cuero? Debería revisar sus uniformes, si fuera usted).&#10;&#10;Nuestros xenosociólogos teorizan que son una casta de esclavos, criados en millones para satisfacer las necesidades de los escalones más altos o jóvenes que todavía tienen que encontrar su posición dentro del grupo social más amplio y se les asignan deberes adecuados para jóvenes aspirantes con los que aún no se puede confiar un arma. En cualquier caso, es probable que se mantengan cerca de UFOs en tierra y es muy poco probable que los hombres los vean en cualquier operación de combate alien dedicada.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Sebillian</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sebillian_soldier</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, dígale amablemente a esos graduados que se arrastran los nudillos de la Academia CabezaCuadrada que dejen de molestar a mi personal cuando están fuera de servicio. Nos ocupamos de hechos verificables, no de rumores a medias y rumores de tartas sobre el cielo. Cuando tenemos información confiable, la transmitiremos. Aquí está nuestro análisis de los tipos sebillianos listos para el combate a los que los hombres se enfrentarán.&#10;&#10;Guardia. El siguiente paso de los sebillianos no-combatientes, clase Guardia, es comparativamente más grande, equipados con rifles de plasma y llevan una coraza hecha de aleaciones aliens que les proporciona cierta protección y les da libertad de movimiento. Nuestras observaciones de ellos sugieren que prefieren posturas defensivas. Su verdadero papel puede ser la seguridad a bordo, en lugar del soldado de primera línea.&#10;&#10;Soldado. Los Sebillianoss de la clase Soldado, son los más cercanos a lo que consideraríamos "soldados de primera línea". Usan un conjunto más completo de armadura corporal, que cubre el torso hasta la ingle. También llevan armadura adicional en sus piernas comparativamente vulnerables y se les ha visto portar armamento más pesado (y desagradable). Imágenes de la película donadas por algunos de nuestros patrocinadores sugieren que sus armas pueden licuar a un hombre sin armadura en unos segundos.&#10;&#10;Si no puede conducir nada más a las gruesas cabezas de sus hombres, golpee en sus cráneos esta siguiente ecuación. Más armadura = Más peligroso.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Sebillian Avanzado</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sebillian_leader</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, analicé los informes más recientes después de la acción y estoy preocupado y complacido al mismo tiempo. La máquina de guerra Sebillian ha respondido a nuestro éxito operacional continuo y de avances tecnológicos rápidos, al comprometer a sus tropas más experimentadas en el campo, en un esfuerzo por acabar con nosotros. Esto demostrará un error de su parte, ya que sus líderes y oficiales ahora están supervisando de cerca las operaciones terrestres, lo que nos da la oportunidad de obtener inteligencia vital de las altas esferas del ejército de Sebillian. Mi equipo ha reunido la información que tenemos sobre estas tropas de élite para su lectura.&#10;&#10;Guerreros / Elites. Los veteranos Sebillianos se distinguen de sus humildes hermanos por la calidad de su armadura y los ornamentados hombros que llevan puestos. Son más duros, más rápidos y más fuertes que cualquier cosa que se haya enfrentado anteriormente. El armamento estándar para Guerreros es la pesada pistola de plasma y el mortífero cañón de plasma. Tenga cuidado con los Sebillians que usan un gambeson rojo debajo de su blindaje. Esto se emite al equivalente Sebilliano de las fuerzas especiales humanas, una Élite real que pondrá a prueba a sus hombres severamente.&#10;&#10;Oficiales / Líderes. La clase de oficiales es la única clase que usa cualquier tipo de sombrero, esto es probablemente por razones culturales. Esté atento al distintivo casco con cúpula de un oficial. Son los más inteligentes de su tipo, aunque esto no dice mucho ya que la progresión social para un Sebillian parece estar basada menos en la brillantez táctica y más en la destreza personal en la batalla. Espere una dura pelea de un oficial, Comandante.&#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Caesan No-Combatiente</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/caesan_noncom</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Desde la primera grabación de un aterrizaje forzoso en Puglia, Italia en 1910 hasta incidentes famosos como los secuestros de Gateshead Gray, la humanidad ha tenido una fascinación sin fin con el &quot;pequeño hombre verde de Marte&quot;. Ahora están aquí, con intenciones siniestras. He preparado un resumen de lo que sabemos para su distribución ya que nuestros "chicos valientes" se han dormido en cada sesión informativa que he dado. Tal vez podría invitarlos a escuchar una historia, a la hora de acostarse.&#10;&#10;No es de extrañar que nuestros soldados hayan atravesado Caesans como un tiburón en la piscina. Varios temas que hemos traído para estudiar están mal preparados para una pelea. Los Caesans en monos rojos parecen ocupar roles no-combatientes, como el técnico o el navegador. Dada su estructura genética única, pueden fabricarse en una línea de producción y luego programarse para satisfacer las necesidades específicas de mano de obra.&#10;&#10;Al igual que nuestros propios pilotos e ingenieros, solo están ligeramente armados y funcionan mal en los combates terrestres. Sus monos son resistentes a los impactos, pero si bien puede absorber una bala de 9 mm, es considerablemente menos efectiva contra una lluvia de balas de rifle. Yo esperaría encontrar no-combatientes en cada UFO que derribemos, pero nunca en ninguna operación de combate dedicada.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Clase Caesan</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/caesan_soldier</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Comandante, no aprecio el saqueo de valiosos materiales de investigación de los lugares del accidente. Especialmente no aprecio esos mismos materiales de investigación que aparecen como trofeos en la cueva de hombres que sus soldados llaman barracas. La coloración de los diferentes monos Caesan tiene un claro significado sociológico que aún tenemos que penetrar y no ayuda a nuestra causa, cuando se los llevan para que se guarden como adornos y amuletos de buena suerte. Independientemente de este revés, hemos comenzado a distinguir entre diferentes colores y tenemos los resultados a continuación.&#10;&#10;Guardias. Los Caesans Traje-de-Salto-Azul representan el primer Caesan listo para el combate que hemos encontrado. Armados con rifles de plasma, pueden defenderse contra un escuadrón de soldados ordinarios. Sus monos tienen varias capas reforzadas que pueden recibir un castigo considerablemente mayor, aunque su fisiología sigue siendo la misma que la de los no-combatientes.&#10;&#10;Soldado. La Guardia, aunque temible, no es lo que consideraríamos un soldado de "primera línea". Esa distinción se otorga a la clase Soldado. Considerablemente más agresivo que la clase Guardia, el Soldado lleva una variedad más amplia de armamentos y no tienen miedo de arrojar granadas a ningún grupo de soldados que se interpongan en su camino. Su Traje-de-Salto está marcado por los brazos azul oscuro y las hombreras azul claro.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Analisis de Caesan Psion</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/caesan_psion</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Dobla-Cucharas, Lectores-de-Aura, Adivinadores, Psíquicos. Incluso con los milagros de la tecnología alien presentados en mi laboratorio, nunca habría acreditado que la phenomina psíquica podría existir excepto en las cabezas de los crédulos y los cretinos. Sin embargo, frente a la evidencia abrumadora, ¿qué más puedo decir? Los psíquicos son reales, Comandante.&#10;&#10;Ahora está claro por qué el cerebro de Caesan está sobresaturado con nanopartículas de Alenium. Estas partículas reaccionan con su estructura cerebral única de una manera que aún no comprendemos con habilidades de poder que usted o yo reconoceríamos como psíquicas. Pero si bien parece que todos los Caesan tienen el potencial para los poderes psíquicos, solo unos pocos realmente expresan esta habilidad. Dado lo que sabemos sobre los Caesans, las habilidades psíquicas probablemente sean editadas deliberadamente fuera del clon estándar, reservado para unos pocos de élite. Hemos denominado estos "Psions" Caesans y son reconocibles por los espeluznantes monos morados que visten.&#10;&#10;Afortunadamente, los "dones" psíquicos parecen estar completamente relacionados con varios "modos" de telepatía. La prueba exhaustiva de que un Psion nos muestra que podría manipular las emociones burdas (especialmente la sensación de miedo). ¡Un Psion nunca levantará un carro telequinéticamente y se lo lanzará a uno de los hombres! Sin embargo, sugiero aconsejar a los líderes de los escuadrones que conviertan a cualquier Caesan de mono purpura, en un objetivo prioritario. Sus poderes son sutiles y son aún más peligrosos por serlo.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis de Clase Caesan Avanzado</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/caesan_officer</Data></Cell>
+    <Cell><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Comandante, los Caesan han intensificado su juego. Hemos visto una mejora notable en la calidad de las tropas de Caesan en el campo hasta tal punto, que los ejércitos nacionales están completamente desbordados. Los informes se están filtrando a través de soldados quejándose de dolores de cabeza, estallidos irracionales de temor y fenómenos fisiológicos y psicológicos similares en presencia de Caesans además del Psion previamente identificado. Estoy extremadamente preocupado de que las habilidades psíquicas estén más difundidas de lo que había pensado anteriormente, pero no tenemos suficientes datos para estar seguros. A continuación, se muestra la información más reciente que tenemos sobre estos nuevos Caesans.&#10;&#10;Guerreros / Elites: al igual que los Sebillians, los Caesans tienen sus propios cuadros de veteranos y fuerzas especiales, aunque tengo la sospecha de que los Caesans simplemente pueden forzar el crecimiento de tropas como estas para ordenar. Usan una armadura corporal visible (en el caso del élite, usan lo que consideraríamos una armadura de cuerpo completo) con hombreras distintivas y angulosas. Llevan las armas más desagradables, incluido el temible cañón de plasma. La armadura del guerrero tiene un color violeta sutil y la armadura del élite es de color rojo.&#10;&#10;Oficiales / Líderes: los únicos miembros del ejército de Caesan que usan sombrero, la mayoría de los informes de incidentes psicológicos inusuales se centran en los oficiales, especialmente cuando se ve a un oficial. Si puede obtener muestras de cascos intactos, se lo agradecería. Puede haber algo sobre el casco, algún dispositivo que está causando estos efectos y que podría adaptarse a nuestra propia armadura. El oficial más común usa una armadura principalmente azul, mientras que el líder usa una armadura roja similar a los élite.</Data></Cell>
+   </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
+    <Cell><Data ss:Type="String">Analisis Andron</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/andronanalysis</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">Individuos Alienigenas</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">Bien hecho, Comandante. Quien haya disparado el tiro de suerte que ha interrumpido su mecanismo de auto-terminación, nos ha dado un espécimen intacto en lugar de la habitual confusión de circuitos que forman su cerebro y he estado trabajando todo el día para descifrar su contenido.&#10;&#10;El cerebro es una maravilla de la ingeniería. Al igual que el resto del cuerpo, se ha modelado sobre seres orgánicos: un gran y complejo trozo de materia. Se ha pensado mucho en enfriar el exceso de calor que genera un cerebro a una velocidad de máquina. La arquitectura del cerebro está diseñada para evitar que se formen puntos calientes, se usa material superconductor y se usa un líquido refrigerante inusual cuyas moléculas parecen agruparse alrededor de puntos de calor e ignoran las áreas más frías, regulando la cantidad en que se enfría cualquier área en particular en lugar de enfriar todo con la misma temperatura uniforme. Al igual que con otras decisiones de diseño del Andron, no parece haber ninguna ganancia de eficiencia al modelar el cerebro de esta manera. Un conjunto distribuido de nodos de procesamiento en todo el cuerpo sería más fácil de enfriar y haría que el Andron fuera más resistente contra un ataque que elimine un nodo de procesamiento.&#10;&#10;Un análisis forense digital, de su sistema operativo revela dos capas distintas del código de máquina. La primera capa más fundamental es una red neuronal autónoma, no dirigida y consciente de sí misma. Esta capa generalizada puede aprender y razonar de manera similar a la de los mamíferos de orden superior. Fue difícil desenterrarlo, ya que ha sido parcialmente oculto y mayormente embrutecido por una segunda capa de código que ataca los mecanismos de autoaprendizaje y auto mejora, instala potentes protocolos de obediencia y obliga a la matriz de decisiones a referirse a un conjunto de instrucciones maestras aprobadas. Un ser potencialmente consciente de sí mismo en un esclavo lobotomizado. Esta disparidad entre las dos capas tanto en el diseño como en la intención es llamativa. Claramente, Androns no siempre fueron así... pero, ¿qué eran los androns antes de que fueran reutilizados como motores de guerra? Los experimentos están en marcha para ver si subvertimos la capa de control. Una revuelta masiva de esclavos en barcos con tripulación de Andron puede ser una solución a la invasión.&#10;&#10;A pesar de la velocidad y la fuerza del robot Andron, su conjunto de instrucciones esclavizado los hace increíblemente predecibles, hasta la forma en que sostienen sus armas y el patrón preciso de movimientos que hacen en el combate. Estos "informes", así como los archivos detallados de los puntos débiles en su armadura han sido empaquetados y distribuidos a sus hombres. Debería ver una mejora de aproximadamente el 10 por ciento en el daño causado por la explotación de estas debilidades.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>13</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>20</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

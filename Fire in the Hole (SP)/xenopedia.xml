@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Juan</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2018-06-09T15:38:53Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7800</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
+    <Cell><Data ss:Type="String">Carga de Rotura</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_BreachingCharge</Data></Cell>
+    <Cell><Data ss:Type="String">Armas Xenonaut</Data></Cell>
+    <Cell><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Resumen Operacional: Análisis Preliminar Ufo&#10;&#10;Aunque el gran UFO derribado durante el Incidente de Islandia desapareció antes de que pudieran recuperarse los artefactos, nuestros investigadores hicieron un gran análisis de los relatos de los testigos oculares y las instantáneas aéreas de los restos del naufragio y del area de su explosión. Entre otras cosas, este análisis sugiere que los UFOs en última instancia tienen una o más áreas de vulnerabilidad en su armadura de casco. Nuestros equipos de tierra podrían aprovechar estas debilidades a través del uso de cargas explosivas diseñadas específicamente para romper el blindaje extraterrestre. Perforar tales brechas proporcionaría a nuestros equipos nuevas rutas de entrada en naves enemigas para neutralizar a los posibles defensores lo más rápido posible.&#10;&#10;La Carga de Rotura que hemos diseñado para este propósito es bastante fácil de usar. La carga está equipada con crampones electromagnéticos que permiten al artífice fijarlo en el casco del UFO. Una vez que se carga, el soldado solo tiene que armar el detonador antes de alejarse unos pocos pasos para evitar quedar atrapado en el cono de lanzamiento, muy corto para el resto. El sistema es muy preciso y limita considerablemente el riesgo de daños colaterales. Por lo tanto, la carga debe ser capaz de preservar los artefactos extraterrestres presentes dentro del UFO mientras crea un espacio lo suficientemente amplio como para permitir el paso de los soldados.&#10;&#10;[Para usar la carga, colóquela en las manos de un soldado y armela como si fuera C4. La carga debe colocarse contra el área objetivo y el soldado debe moverse un mínimo de dos espacios.]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="255">
+    <Cell><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
+    <Cell><Data ss:Type="String">Asalto de un Crucero</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_cruiserbreach</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Tipo de documento: Memo táctica&#10;UFO en cuestión: clase Crucero&#10;&#10;Analisis :&#10;&#10;El interior de los barcos de la clase &quot;Crucero&quot; son bastante estrechos y ofrecne ángulos de disparo reducidos. Durante el asalto, los Xenonauts deben necesariamente reagruparse y arriesgarse a exponerse a armas con un área de efectos adversos (granadas, otros explosivos). Aunque la presencia de varios accesos permite un asalto simultáneo dirigido en varias direcciones, esta táctica divide a nuestro equipo y consecuentemente reduce su poder de fuego.&#10;&#10;Soluciones :&#10;&#10;Hemos identificado varias debilidades en el casco que podrían explotarse utilizando una Carga de Rotura para facilitar el control del terreno. :&#10;&#10;1) A nivel del suelo, a veces sucede que el enemigo bloquea el acceso frontal del UFO para obligar a nuestros soldados a acercarse a sus alas estrechas. Sin embargo, este acceso no es tan fuerte como el casco acorazado de la nave y puede forzarse con una carga explosiva. Esta brecha proporcionará acceso a la sala principal de la cubierta inferior y facilitará la inversión del puente.&#10;&#10;2) Hay áreas vulnerables en la parte posterior de las alas de cada crucero. Destruir el casco en estos lugares ayudará a navegar en cada sala de máquinas. Esta táctica permite tomar la espalda de posibles defensores colocados en las alas de la nave y neutralizarlos rápidamente.&#10;&#10;3) El último punto de debilidad está en la parte delantera del puente. Los soldados equipados con unidades de vuelo pueden llegar a esta área e invadir el UFO directamente en la cubierta superior. Esta táctica, combinada con un asalto a la sala central, debería facilitar la eliminación de unidades enemigas que generalmente son emboscadas en este nivel.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="255">
+    <Cell><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
+    <Cell><Data ss:Type="String">Asalto de un PortaAeronaves</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_carrierbreach</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Tipo de documento: Memo táctica&#10;UFO en cuestión: clase PortaAeronaves&#10;&#10;Análisis :&#10;&#10;La clase UFO &quot;PortaAeronaves&quot; es particularmente grande ya que tienen cuatro puentes en toda su longitud. Varios pares de teletransportadores dan acceso a los diferentes niveles, y esta configuración multiplica las posibilidades de maniobra y las oportunidades de emboscada para las unidades enemigas.&#10;&#10;Soluciones :&#10;&#10;El PortaAeronaves tiene varias áreas vulnerables que pueden ser explotadas para permitir a nuestros soldados introduccirse más fácilmente en la nave:&#10;&#10;1)A nivel del suelo, hemos identificado dos puntos débiles ubicados hacia la parte posterior de la nave, que permiten un ataque en pinza en la sala de máquinas de la cubierta inferior. Un asalto desde esta posición será más seguro que un acercamiento frontal a la bodega principal porque no hay acceso directo a las cubiertas superiores.&#10;&#10;2) Hay otras dos zonas vulnerables ubicadas hacia el medio del buque y que dan acceso a los dos puentes intermedios. Por otro lado, estos puntos débiles tienen altura y solo los soldados equipados con unidades voladoras pueden alcanzarlos. Un ataque a través de estos carriles debería eliminar más fácilmente las unidades enemigas en las cubiertas superiores sin el riesgo de utilizar teletransportadores ciegos.&#10; &#10;3) La proa del barco presenta una última zona de vulnerabilidad, ubicada dos niveles por encima de la entrada principal (es preferible colocar la carga en el lado de babor). La destrucción de esta parte del casco da acceso a la sala de teletransportación ubicada en la parte delantera del tercer puente, la misma que permite invertir el puente de mando. Este enfoque podría ser el más efectivo, los Xenonautas pueden comenzar invirtiendo el puente de mando antes de limpiar una por una las cubiertas inferiores.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="267.75">
+    <Cell><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
+    <Cell><Data ss:Type="String">Asalto a un Crucero de Batalla</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_battleshipbreach</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Tipo de documento: Memo táctica&#10;UFO en cuestión: clase Crucero de Batalla&#10;&#10;Análisis :&#10;&#10;Los OVNI de la clase 'Crucero de batalla' se distinguen por su tamaño excepcional, pero su configuración obliga a los atacantes a atravesar varios cuellos de botella para llegar al puente de mando. Por lo tanto, no es posible recuperar al enemigo y el éxito del ataque depende principalmente de la potencia de fuego del equipo.&#10;&#10;Soluciones :&#10;&#10;A pesar de la calidad de su construcción, el Crucero de Batalla tiene áreas de debilidad que pueden ser explotadas cuando nuestros soldados se acerquen. Sin embargo, debe tenerse en cuenta que todas estas áreas son elevadas y las siguientes tácticas requieren unidades voladoras:&#10;&#10;1) Comenzando desde su cima, hay dos puntos débiles ubicados hacia la parte posterior de la nave, dando acceso a la sala de máquinas del puente de mando. Este enfoque permite un ataque en pinza desde la parte superior e inferior de la nave.&#10;&#10;2) La parte suroeste de la sección intermedia tiene puntos débiles en cada extremo. Nuestros soldados deberían poder limpiar con relativa facilidad la parte central del barco. Además, este enfoque debería facilitar la conquista de la cubierta inferior ayudando a atacar a los soldados a nivel del suelo.&#10;&#10;3) Encontramos tres puntos más de debilidad que llevan directamente a la cubierta inferior. El primero de ellos está en la parte trasera del barco, cerca del cruce con la sección intermedia. Da acceso a la sala de máquinas de la cubierta inferior. Las otras dos áreas vulnerables se encuentran a ambos lados del barco, en el borde del platillo, y conducen a las dos salas de control. Los ataques coordinados en estas rutas de acceso pueden facilitar la conquista de la sala de la cubierta inferior por sala, ya que permiten optimizar la potencia de fuego.&#10;&#10;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>3</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
